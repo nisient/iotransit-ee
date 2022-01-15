@@ -1,6 +1,6 @@
 {
   "name": "iotransit-ee",
-  "version": "1.0.0",
+  "version": ".0.0",
   "description": "A simple node.js wrapper for the IoTransit Event Engine API for Core applications",
   "main": "index.js",
   "directories": {

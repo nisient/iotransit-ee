@@ -1,7 +1,7 @@
 {
   "name": "iotransit-ee",
-  "version": ".0.0",
-  "description": "A simple node.js wrapper for the IoTransit Event Engine API for Core applications",
+  "version": "2.0.0",
+  "description": "IoTransit Event Engine module",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -9,19 +9,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "websocket": "^1.0.31"
-  },
-  "keywords": [
-    "iotransit",
-    "api"
-  ],
-  "author": "nisient pty. ltd.",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://rgillan@github.com/nisient/iotransit-ee.git"
   },
+  "keywords": [
+    "IoTransit",
+    "events"
+  ],
+  "author": "R.Gillan",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nisient/iotransit-ee/issues"
   },
